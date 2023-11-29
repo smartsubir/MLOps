@@ -1,5 +1,0 @@
-[ 2023-11-24 17:42:59,266] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
-[ 2023-11-24 17:43:01,247] 21 root - INFO - Entered the data ngestion method or component
-[ 2023-11-24 17:43:01,276] 24 root - INFO - Read the dataset as dataframe
-[ 2023-11-24 17:43:01,287] 30 root - INFO - Train test split initiated
-[ 2023-11-24 17:43:01,301] 37 root - INFO - Ingestion of the data is completed
