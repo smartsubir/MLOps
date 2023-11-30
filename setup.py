@@ -17,10 +17,10 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-name='mlproject',
+name='MLOps',
 version='0.0.1',
-author='Krish',
-author_email='krishnaik06@gmail.com',
+author='Subir',
+author_email='smartsubir2010@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
 
